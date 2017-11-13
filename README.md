@@ -1,2 +1,2 @@
 # CMSToy2013-php
-This shows JQuery and php. Old now deprecated SQL connection.
+This shows JQuery and php using old now deprecated SQL connection.
